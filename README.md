@@ -1,7 +1,7 @@
 # Arrow Function Shorthand
 
 ## Learning Goals
-
+ 
 - Declare a function using a function expression
 - Declare a function using an arrow function
 - Describe situations where arrow functions are used
